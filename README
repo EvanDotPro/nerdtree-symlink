@@ -1,0 +1,6 @@
+This is a plugin for NERDTree to allow for creating symlinks from within Vim.
+
+To use, place the cursor on the file/directory you wish to create a symlink to.
+Open the file menu in NERDTree using <m>, then hit <s>. You will get an input
+field with the current path populated. Change this path to represent where you'd
+like the symlink to be created and hit enter.
